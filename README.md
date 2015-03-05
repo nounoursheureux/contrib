@@ -48,4 +48,11 @@ Depends on `wew(1)` (opt repo)  and `focus.sh` (contrib repo)
 
     usage: switch_grid.sh
 
+### sloppyfocus.sh
+Focus follows the mouse cursor. 
+
+Depends on `wew(1)` (opt repo) and `focus.sh` (contrib repo)
+
+    usage: sloppyfocus.sh
+
 *... to be continued*
